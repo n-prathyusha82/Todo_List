@@ -1,0 +1,51 @@
+.body-container{
+    min-height: 100vh;
+    background-color: blue;
+    padding: 50px 20px;
+}
+.user-input{
+    width: 100%;
+    max-width: 800px;
+    /* height: 100%; */
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.add-button{
+    padding: 10px 20px ;
+    border-radius: 10px;
+}
+.checkbox{
+    margin-top: 6px;
+}
+.task-description{
+    color: white;
+    width: 100%;
+    text-align: left;
+    margin-left: 10px;
+}
+.todo-item-container{
+    margin: 10px;
+    margin: auto;
+    /* background-color: blue; */
+    max-width: 900px;
+}
+
+
+.todo-item-list-container{
+    /* background-color: red; */
+    margin-top: 50px;
+}
+
+.task-complete{
+    text-decoration: line-through;
+}
+
+.save-btn{
+    padding: 8px;
+    font-size: 14px;
+    border: none;
+    background-color: yellowgreen;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
